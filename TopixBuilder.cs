@@ -7,6 +7,7 @@ using System.Drawing;
 
 namespace TopixCompresion
 {
+    //Main Builder
     class TopixBuilder
     {
         private string GetHexStringFromBinaryByte(byte[] binaryArray)
